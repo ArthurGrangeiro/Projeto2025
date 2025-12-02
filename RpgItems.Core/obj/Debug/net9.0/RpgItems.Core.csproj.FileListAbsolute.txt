@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\bin\Debug\net9.0\RpgItems.Core.deps.json
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\bin\Debug\net9.0\RpgItems.Core.dll
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\bin\Debug\net9.0\RpgItems.Core.pdb
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\RpgItems.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\RpgItems.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\RpgItems.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\RpgItems.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\RpgItems.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\RpgItems.Core.dll
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\refint\RpgItems.Core.dll
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\RpgItems.Core.pdb
+C:\Users\User\Desktop\RPGItens\RpgItems\RpgItems.Core\obj\Debug\net9.0\ref\RpgItems.Core.dll
